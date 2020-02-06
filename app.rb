@@ -12,5 +12,5 @@ class App < Sinatra::Base
 
   get '/favorite-song' do
     "My favorite song is Sicko World by Travis Scott"
-
+  end
 end
